@@ -2,11 +2,7 @@
 
 This is a very simple hello world application using [Spring Boot CLI](https://docs.spring.io/spring-boot/docs/current/reference/html/cli-using-the-cli.html).
 
-## Install Spring Boot CLI
-
-The best way to install the Spring Boot CLI is with [SDKMAN!](https://sdkman.io/). First [install SDKMAN!](https://sdkman.io/install) and then [install Spring Boot](https://sdkman.io/sdks#springboot).
-
-## Running the application
+## Run 
 
 To run the program:
 
