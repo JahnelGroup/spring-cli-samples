@@ -11,7 +11,7 @@ The best way to install the Spring Boot CLI is with [SDKMAN!](https://sdkman.io/
 Build the JAR and then run it:
 
 ```bash
-$ $ spring jar app.jar *.groovy templates
+$ spring jar app.jar *.groovy templates
 $ java -jar app.jar
 ```
 
