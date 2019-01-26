@@ -1,4 +1,4 @@
-# Spring CLI TODO List
+# Spring CLI Todo List
 
 Spring CLI version of [php-samples/todo-list](https://github.com/JahnelGroup/php-samples/tree/master/todo-list).
 
