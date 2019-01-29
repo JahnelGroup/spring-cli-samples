@@ -27,13 +27,11 @@ Spring CLI uses a technique called [Deduced “grab” Dependencies](https://doc
 
 This sample uses an H2 in-memory database and hiberante to auto-generate the DDL. 
 
-## Run 
-
-### Prerequisites
+## Prerequisites
 
 The best way to install the Spring Boot CLI is with [SDKMAN!](https://sdkman.io/). First [install SDKMAN!](https://sdkman.io/install) and then [install Spring Boot](https://sdkman.io/sdks#springboot).
 
-### Start
+## Run 
 
 Build the JAR and then run it:
 
